@@ -5,10 +5,7 @@ FSSE Madrid 2023
 
 ## Links/URLs:
 
-- <https://w3-landing-website-anggihp.netlify.app/>
-- <https://teamcolorcodes.com/manchester-city-fc-colors/>
-- <https://www.transfermarkt.com/manchester-city/erfolge/verein/281>
-- Inspiration: <https://astonishing-llama-40b674.netlify.app/>
+- <https://mancity-anggih.netlify.app/>
 
 ## My Website Project Preview
 
