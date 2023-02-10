@@ -1,7 +1,7 @@
-# My Landing Website - Man City Fanbase
+# Week 4 Assignment - Deployment - Anggih
 
-This is my project of Landing-Website Assignment
-For Week-3 RevoU FSSE Madrid
+This is my work on Deployment Website as assignment of Week 4
+FSSE Madrid 2023
 
 ## Links/URLs:
 
@@ -10,26 +10,46 @@ For Week-3 RevoU FSSE Madrid
 - <https://www.transfermarkt.com/manchester-city/erfolge/verein/281>
 - Inspiration: <https://astonishing-llama-40b674.netlify.app/>
 
-## Colors
+## My Website Project Preview
 
-- Sky Blue: #6CABDD
-- Blue: #1C2C5B
-- White: #ffffff
-
-## Screenshots
-
-### Desktop
+Home Page
 
 ![Desktop](assets/desktop.JPG)
 
-### Mobile
+## Deployment Step - Netlify
 
-![Mobile](assets/mobile.JPG)
+1. Go to <https://www.netlify.com/>
 
-### Symmetrical Grid
+![netlifyhome](assets/netlify0.jpg)
 
-![Symmetrical Grid](assets/grid1.JPG)
+2. Sign Up account
 
-### Asymmetrical Grid
+![netlifysignup](assets/netlify1.jpg)
 
-![Asymmetrical Grid](assets/grid2.JPG)
+3. After completing sign up data, you will face the home page of netlify
+
+![netlifyhome](assets/netlify2.jpg)
+
+4. To make deployment process, scroll down in the home page and choose "Add new site"
+
+![netlifyadd](assets/netlify3.jpg)
+
+5. Click and you will have this option as below, then choose "Import an existing project"
+
+![netlifyaddrepo](assets/netlify4.jpg)
+
+6. Choose Git Provider
+
+![netlifychoosegit](assets/netlify5.jpg)
+
+7. Choose GitHub Repository
+
+![netlifygithubrepo](assets/netlify6.jpg)
+
+8. Setting the site before deploying, can leave the setting as default
+
+![netlifysettingdeploy](assets/netlify7.jpg)
+
+9. Deployment Finish
+
+![netlifydeploy](assets/netlify8.jpg)
