@@ -12,7 +12,7 @@ FSSE Madrid 2023
 
 Home Page
 
-![Desktop](assets/desktop.JPG)
+![Desktop](assets/home.JPG)
 
 ## Deployment Step - Netlify
 
